@@ -1,5 +1,5 @@
 function foo(number: number) {
-  return number * 2;
+  return number * 3;
 }
 
 export default foo;
